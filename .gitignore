@@ -26,3 +26,5 @@ venv/
 
 # OS / Misc
 Thumbs.db
+
+*_index/
